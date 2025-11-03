@@ -1,0 +1,161 @@
+SRX022363	SRP002667	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX022364	SRP002667	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX022365	SRP002667	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX316987	SRP010770	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX316988	SRP010770	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX316989	SRP010770	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX8615321	SRP268778	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX8615322	SRP268778	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX8615323	SRP268778	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1134774	SRP062104	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1134775	SRP062104	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1134776	SRP062104	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1134777	SRP062104	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1134778	SRP062104	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1134779	SRP062104	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245478	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245479	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245480	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245481	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245482	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245483	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX245491	SRP018840	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX19147839	SRP418841	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX19147840	SRP418841	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX19147841	SRP418841	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX180053	SRP014967	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TuMV infected
+SRX180054	SRP014967	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TuMV infected
+SRX180055	SRP014967	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TuMV infected
+SRX5763740	SRP194124	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5763741	SRP194124	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5763742	SRP194124	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5763743	SRP194124	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5763744	SRP194124	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5763745	SRP194124	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX21593335	SRP458044	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX21593336	SRP458044	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX21593337	SRP458044	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540792	SRP128473	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540793	SRP128473	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540794	SRP128473	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540795	SRP128473	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540796	SRP128473	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540797	SRP128473	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410558	SRP350800	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410559	SRP350800	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410560	SRP350800	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410561	SRP350800	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410562	SRP350800	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410563	SRP350800	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100850	SRP008834	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100851	SRP008834	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100852	SRP008834	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated	
+SRX3644299	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644300	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644308	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644309	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644310	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644311	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644312	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644315	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX3644316	SRP132084	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B.cinerea infected
+SRX6071718	SRP201460	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	UV radiation treatment
+SRX6071719	SRP201460	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	UV radiation treatment
+SRX6071724	SRP201460	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	UV radiation treatment
+SRX7754986	SRP250071	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	S.sclerotiorum infected
+SRX7754987	SRP250071	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	S.sclerotiorum infected
+SRX7754988	SRP250071	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	S.sclerotiorum infected
+SRX1993701	SRP080772	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TCV infected
+SRX1993702	SRP080772	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TCV infected
+SRX1993703	SRP080772	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TCV infected
+SRX19323551	SRP422585	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX19323553	SRP422585	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX19323554	SRP422585	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371623	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371624	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371625	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371629	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371630	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371631	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371636	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371637	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371638	SRP237668	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1868686	SRP076861	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1868687	SRP076861	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1868688	SRP076861	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830576	SRP389746	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830577	SRP389746	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830578	SRP389746	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830579	SRP389746	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830580	SRP389746	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830581	SRP389746	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2751239	SRP104685	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2751240	SRP104685	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2751241	SRP104685	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5516624	SRP188350	roots		Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516625	SRP188350	roots		Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516626	SRP188350	roots		Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516627	SRP188350	roots		Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516628	SRP188350	roots		Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516629	SRP188350	roots		Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX23398520	SRP486063	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	T.atroviride fungal infected
+SRX23398521	SRP486063	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	T.atroviride fungal infected
+SRX23398522	SRP486063	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	T.atroviride fungal infected
+SRX2751239	SRP104685	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	salt stress
+SRX2751240	SRP104685	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	salt stress
+SRX2751241	SRP104685	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	salt stress
+SRX893867	SRP055699	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX893869	SRP055699	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX893871	SRP055699	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204135	SRP118526	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204136	SRP118526	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204137	SRP118526	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204138	SRP118526	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204139	SRP118526	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1706411	SRP073352	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	phosphate deficiency
+SRX1706414	SRP073352	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	phosphate deficiency
+SRX1706415	SRP073352	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	phosphate deficiency
+SRX1706416	SRP073352	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	phosphate deficiency
+SRX1706418	SRP073352	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	phosphate deficiency
+SRX18904996	SRP415429	polen		Arabidopsis thaliana	Bioo		TAIR10_mp	untreated
+SRX18904997	SRP415429	polen		Arabidopsis thaliana	Bioo		TAIR10_mp	untreated
+SRX18904998	SRP415429	polen		Arabidopsis thaliana	Bioo		TAIR10_mp	untreated
+SRX20032327	SRP433690	polen		Arabidopsis thaliana	Bioo		TAIR10_mp	untreated
+SRX20032328	SRP433690	polen		Arabidopsis thaliana	Bioo		TAIR10_mp	untreated
+SRX20032333	SRP433690	polen		Arabidopsis thaliana	Bioo		TAIR10_mp	untreated
+SRX2536533	SRP098796	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536534	SRP098796	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536535	SRP098796	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536536	SRP098796	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536537	SRP098796	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536538	SRP098796	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916098	SRP078043	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916099	SRP078043	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916100	SRP078043	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916101	SRP078043	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916102	SRP078043	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916103	SRP078043	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064007	SRP059517	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064008	SRP059517	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064009	SRP059517	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064010	SRP059517	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064015	SRP059517	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064024	SRP059517	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906372	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906373	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906374	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906375	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906376	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906377	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+ERX3642151	ERP117726	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+ERX3642154	ERP117726	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+ERX3642155	ERP117726	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507587	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507588	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507589	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507590	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507591	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507592	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567279	SRP189310	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567280	SRP189310	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567281	SRP189310	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

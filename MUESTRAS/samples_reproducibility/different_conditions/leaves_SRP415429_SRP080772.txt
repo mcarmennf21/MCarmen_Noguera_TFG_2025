@@ -1,0 +1,6 @@
+SRX18942211	SRP415429	uninfected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX18942212	SRP415429	uninfected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX18942213	SRP415429	uninfected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX1993701	SRP080772	TCVinfected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TCV infected
+SRX1993702	SRP080772	TCVinfected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TCV infected
+SRX1993703	SRP080772	TCVinfected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TCV infected

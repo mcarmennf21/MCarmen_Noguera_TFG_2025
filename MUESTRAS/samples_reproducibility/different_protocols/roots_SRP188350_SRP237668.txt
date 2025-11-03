@@ -1,0 +1,6 @@
+SRX5516627	SRP188350	roots_IONTORRENT	Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516628	SRP188350	roots_IONTORRENT	Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX5516629	SRP188350	roots_IONTORRENT	Arabidopsis thaliana	ION TORRENT	TAIR10_mp	untreated
+SRX7371623	SRP237668	roots_ILLUMINA		Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX7371624	SRP237668	roots_ILLUMINA		Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX7371625	SRP237668	roots_ILLUMINA		Arabidopsis thaliana	Illumina	TAIR10_mp	untreated

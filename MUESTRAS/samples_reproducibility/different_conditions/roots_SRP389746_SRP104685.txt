@@ -1,0 +1,6 @@
+SRX16830579	SRP389746	untreated_roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830580	SRP389746	untreated_roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX16830581	SRP389746	untreated_roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2751239	SRP104685	saltstress_roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	salt stress
+SRX2751240	SRP104685	saltstress_roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	salt stress
+SRX2751241	SRP104685	saltstress_roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	salt stress

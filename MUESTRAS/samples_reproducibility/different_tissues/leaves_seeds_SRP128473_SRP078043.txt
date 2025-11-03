@@ -1,0 +1,6 @@
+SRX3540795	SRP128473	leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540796	SRP128473	leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3540797	SRP128473	leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916101	SRP078043	seeds	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916102	SRP078043	seeds	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916103	SRP078043	seeds	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

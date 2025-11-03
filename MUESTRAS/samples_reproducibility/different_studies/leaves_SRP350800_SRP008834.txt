@@ -1,0 +1,6 @@
+SRX13410558	SRP350800	leaves_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410559	SRP350800	leaves_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13410560	SRP350800	leaves_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100850	SRP008834	leaves_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100851	SRP008834	leaves_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100852	SRP008834	leaves_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

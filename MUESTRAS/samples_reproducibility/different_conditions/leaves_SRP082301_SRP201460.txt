@@ -1,0 +1,6 @@
+SRX2030877	SRP082301	untreated_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2030878	SRP082301	untreated_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2030879	SRP082301	untreated_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX6071718	SRP201460	UVradiation_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	UV radiation treatment
+SRX6071719	SRP201460	UVradiation_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	UV radiation treatment
+SRX6071724	SRP201460	UVradiation_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	UV radiation treatment

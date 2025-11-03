@@ -1,0 +1,6 @@
+SRX13410561	SRP350800	uninfected_leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX13410562	SRP350800	uninfected_leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX13410563	SRP350800	uninfected_leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX7754986	SRP250071	S.sclerotiorum infected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	S. sclerotiorum infected
+SRX7754987	SRP250071	S.sclerotiorum infected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	S. sclerotiorum infected
+SRX7754988	SRP250071	S.sclerotiorum infected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	S. sclerotiorum infected

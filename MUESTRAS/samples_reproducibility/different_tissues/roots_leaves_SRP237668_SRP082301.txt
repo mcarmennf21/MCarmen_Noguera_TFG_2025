@@ -1,0 +1,6 @@
+SRX7371636	SRP237668	roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371637	SRP237668	roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX7371638	SRP237668	roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2030880	SRP082301	leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2030881	SRP082301	leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2030882	SRP082301	leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

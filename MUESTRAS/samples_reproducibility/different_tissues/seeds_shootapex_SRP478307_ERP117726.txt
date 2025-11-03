@@ -1,0 +1,6 @@
+SRX22906375	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906376	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX22906377	SRP478307	seeds		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+ERX3642151	ERP117726	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+ERX3642154	ERP117726	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+ERX3642155	ERP117726	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

@@ -1,0 +1,6 @@
+SRX7371629	SRP237668	uninfected_roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX7371630	SRP237668	uninfected_roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX7371631	SRP237668	uninfected_roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX23398520	SRP486063	T.atroviride infected_roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	T. atroviride fungal infected
+SRX23398521	SRP486063	T.atroviride infected_roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	T. atroviride fungal infected
+SRX23398522	SRP486063	T.atroviride infected_roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	T. atroviride fungal infected

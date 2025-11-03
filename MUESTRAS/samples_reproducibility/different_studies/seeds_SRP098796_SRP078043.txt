@@ -1,0 +1,6 @@
+SRX2536533	SRP098796	seeds_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536534	SRP098796	seeds_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2536535	SRP098796	seeds_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916098	SRP078043	seeds_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916099	SRP078043	seeds_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX2916100	SRP078043	seeds_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

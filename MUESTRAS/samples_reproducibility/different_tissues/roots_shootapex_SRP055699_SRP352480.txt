@@ -1,0 +1,6 @@
+SRX893867	SRP055699	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX893869	SRP055699	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX893871	SRP055699	roots		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507590	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507591	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX13507592	SRP352480	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

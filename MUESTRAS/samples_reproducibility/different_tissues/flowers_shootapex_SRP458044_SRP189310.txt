@@ -1,0 +1,6 @@
+SRX21593335	SRP458044	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX21593336	SRP458044	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX21593337	SRP458044	flowers		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567280	SRP189310	Shootapex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567281	SRP189310	Shootapex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567282	SRP189310	Shootapex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

@@ -1,0 +1,6 @@
+SRX100850	SRP008834	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100851	SRP008834	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX100852	SRP008834	leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567279	SRP189310	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567280	SRP189310	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX5567281	SRP189310	Shoot apex	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

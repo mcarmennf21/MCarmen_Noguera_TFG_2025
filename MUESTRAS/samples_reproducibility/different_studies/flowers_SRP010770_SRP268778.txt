@@ -1,0 +1,6 @@
+SRX316987	SRP010770	flowers_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX316988	SRP010770	flowers_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX316989	SRP010770	flowers_study1	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX8615321	SRP268778	flowers_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX8615322	SRP268778	flowers_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX8615323	SRP268778	flowers_study2	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

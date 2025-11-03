@@ -1,0 +1,6 @@
+SRX18904996	SRP415429	Polen_study1	Arabidopsis thaliana	Bioo	TAIR10_mp	untreated
+SRX18904997	SRP415429	Polen_study1	Arabidopsis thaliana	Bioo	TAIR10_mp	untreated
+SRX18904998	SRP415429	Polen_study1	Arabidopsis thaliana	Bioo	TAIR10_mp	untreated						
+SRX20032327	SRP433690	Polen_study2	Arabidopsis thaliana	Bioo	TAIR10_mp	untreated
+SRX20032328	SRP433690	Polen_study2	Arabidopsis thaliana	Bioo	TAIR10_mp	untreated
+SRX20032333	SRP433690	Polen_study2	Arabidopsis thaliana	Bioo	TAIR10_mp	untreated

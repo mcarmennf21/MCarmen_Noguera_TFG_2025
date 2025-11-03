@@ -1,0 +1,6 @@
+SRX3204137	SRP118526	roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204138	SRP118526	roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX3204139	SRP118526	roots	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064010	SRP059517	seeds	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064015	SRP059517	seeds	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated
+SRX1064024	SRP059517	seeds	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	untreated

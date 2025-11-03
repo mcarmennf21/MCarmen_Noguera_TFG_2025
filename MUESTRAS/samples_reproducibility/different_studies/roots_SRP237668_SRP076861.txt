@@ -1,0 +1,6 @@
+SRX7371623	SRP237668	roots_study1	Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX7371624	SRP237668	roots_study1	Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX7371625	SRP237668	roots_study1	Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX1868686	SRP076861	roots_study2	Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX1868687	SRP076861	roots_study2	Arabidopsis thaliana	Illumina	TAIR10_mp	untreated
+SRX1868688	SRP076861	roots_study2	Arabidopsis thaliana	Illumina	TAIR10_mp	untreated

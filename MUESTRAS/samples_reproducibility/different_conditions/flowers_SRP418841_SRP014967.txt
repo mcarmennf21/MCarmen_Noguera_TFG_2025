@@ -1,0 +1,6 @@
+SRX19147839	SRP418841	uninfected_flowers	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX19147840	SRP418841	uninfected_flowers	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX19147841	SRP418841	uninfected_flowers	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX180053	SRP014967	TuMVinfected_flowers	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TuMV infected
+SRX180054	SRP014967	TuMVinfected_flowers	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TuMV infected
+SRX180055	SRP014967	TuMVinfected_flowers	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	TuMV infected

@@ -1,0 +1,6 @@
+SRX466997	SRP036134	uninfected_leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected	
+SRX467008	SRP036134	uninfected_leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected	
+SRX467010	SRP036134	uninfected_leaves		Arabidopsis thaliana	ILLUMINA	TAIR10_mp	uninfected
+SRX3644312	SRP132084	B.cinerea infected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B. cinerea infected
+SRX3644315	SRP132084	B.cinerea infected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B. cinerea infected
+SRX3644316	SRP132084	B.cinerea infected_leaves	Arabidopsis thaliana	ILLUMINA	TAIR10_mp	B. cinerea infected
