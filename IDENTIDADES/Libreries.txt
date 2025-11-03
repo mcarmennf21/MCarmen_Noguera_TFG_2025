@@ -1,0 +1,15 @@
+Type   | Library Name                           | Short Description                       | Long Description
+-------|----------------------------------------|------------------------------------------|--------------------------------------------------------------
+trna   | GCF_000001735.4_tRNA                   | Nuclear tRNA transcript (no introns)     | Nuclear mature transfer RNAs extracted from GCF_000001735.4.gff parsing tRNA feature and RefSeq source.
+trna   | GCF_000001735.4_tRNA_primary_flank20   | Genomic tRNA + flanking                  | Primary, genomic nuclear transfer RNAs extracted from GCF_000001735.4.gff parsing tRNA feature and RefSeq source. Introns are not removed, and 20 nt long flanking sequences are added.
+trna   | GCF_000001735.4_tRNA_mito              | Mitochondrial tRNA transcript (no introns) | Mitochondrial mature transfer RNAs extracted from GCF_000001735.4.gff parsing tRNA feature and RefSeq source.
+trna   | GCF_000001735.4_tRNA_primary_flank20_mito | Mitochondrial, genomic tRNA + flanking | Primary, genomic mitochondrial transfer RNAs extracted from GCF_000001735.4.gff parsing tRNA feature and RefSeq source. Introns are not removed, and 20 nt long flanking sequences are added.
+trna   | GCF_000001735.4_tRNA_cloro             | Chloroplast tRNA transcripts             | Chloroplast mature transfer RNAs extracted from GCF_000001735.4.gff parsing tRNA feature and RefSeq source.
+trna   | GCF_000001735.4_tRNA_primary_flank20_cloro | Chloroplast, genomic tRNA + flanking   | Primary, genomic chloroplast transfer RNAs extracted from GCF_000001735.4.gff parsing tRNA feature and RefSeq source. Introns are not removed, and 20 nt long flanking sequences are added.
+libs   | Small non-coding (RefSeq)              | NA                                       | Small RNAs extracted from GCF_000001735.4.gff parsing the gene feature from RefSeq.
+libs   | Long non-coding (RefSeq)               | NA                                       | Long non-coding RNAs extracted from GCF_000001735.4.gff parsing lnc_RNA feature and RefSeq source.
+libs   | Antisense transcripts (RefSeq)         | NA                                       | Antisense RNAs extracted from GCF_000001735.4.gff parsing antisense_RNA feature and RefSeq source.
+libs   | Pseudogenes (RefSeq)                   | NA                                       | Pseudogenes extracted from GCF_000001735.4.gff parsing pseudogene feature and RefSeq source.
+libs   | Coding transcripts (RefSeq)            | NA                                       | mRNAs extracted from GCF_000001735.4.gff parsing mRNA feature and RefSeq source.
+libs   | TSS and TES regions (RefSeq)           | NA                                       | TSS and TES extracted from GCF_000001735.4.gff parsing mRNA feature and RefSeq source.
+libs   | Introns from (RefSeq)                  | NA                                       | Introns extracted from GCF_000001735.4.gff parsing mRNA feature and RefSeq source.
