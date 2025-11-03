@@ -1,3 +1,4 @@
+### **AVISO: Los archivos .html que contienen gráficos deben descargarse para ser visualizados**
 ## **SECCIÓN 1 — MUESTRAS**
 
 1. **Studies_Athaliana.txt**: Archivo de texto con columnas tabuladas que contiene todas las muestras recopiladas para el proyecto.
